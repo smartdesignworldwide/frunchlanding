@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.clearfix:after {
+	content: '';
+	display: block;
+	clear: both;
+	height: 0;
+	visibility: hidden;
+}
+
+body {
+	background-color: #eee;
+}
+
+.wrapper {
+	width: 960px;
+	height:1619px;
+	margin: auto;
+}
+
+.wrapper img {
+	width: 100%;`
+}
